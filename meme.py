@@ -8,7 +8,7 @@ from user_agent import generate_user_agent
 from concurrent.futures import ThreadPoolExecutor
 
 # --- إعدادات Dexr الخاصة ---
-API_TOKEN = 'ضع_توكن_بوتك_هنا'
+API_TOKEN = '8488920682:AAEp45yVtWWuVWEIj8eV2P07uwDkXWrNHwI'
 bot = telebot.TeleBot(API_TOKEN)
 valid_proxies = []
 IG_APP_ID = "936619743392459"
